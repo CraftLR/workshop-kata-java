@@ -5,9 +5,9 @@
   "build": {
     "dockerfile": "Dockerfile",
     "args": {
-      "JDK_VERSION": "17.0.2.fx-zulu",
-      "INSTALL_MAVEN": "true",
-      "MAVEN_VERSION": "3.8.5",
+			"JDK_VERSION":"19.0.1.fx-zulu",
+			"INSTALL_MAVEN": "true",
+			"MAVEN_VERSION": "3.8.6",
       "INSTALL_GRADLE": "false"
     }
   },
