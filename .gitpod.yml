@@ -2,7 +2,7 @@ image:
   file: .devcontainer/Dockerfile
 
 tasks:
-  - init: mvn verify -DskipTests=true
+  - init: mvn verify -DskipTests=true 
   - command: mvn test
 
 vscode:
