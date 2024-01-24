@@ -15,7 +15,7 @@
 
 L'objectif premier de cet atelier est de pratiquer le Test Driven Development (TDD) sur des exemples classiques. Durant cet atelier, vous serez encouragé à découvrir le pair-programming et pratiquer le refactoring pour apprendre à produire un code plus propre.
 
-Les exercices de ce document sont une adaptation de certains [Coding Kata du site codingdojo.org](https://codingdojo.org/kata/) et de ceux proposés par Emilie Bache dans son livre ["The Coding Dojo Handbook"](https://www.amazon.fr/Coding-Dojo-Handbook-Emily-Bache/dp/919811803X).
+Les exercices de ce document sont une adaptation de certains Kata du site [codingdojo.org](https://codingdojo.org/kata/) et de ceux proposés par Emilie Bache dans son livre ["The Coding Dojo Handbook"](https://www.amazon.fr/Coding-Dojo-Handbook-Emily-Bache/dp/919811803X).
 
 ## Test Driven Development et Kata
 
@@ -25,7 +25,7 @@ Vous connaissez déjà les bases de Git. Si ce n'est pas le cas, vous pouvez vou
 
 La première chose à faire est de créer un fork de ce dépôt. Pour ce faire, rendez-vous sur le lien suivant :
 
-<https://classroom.github.com/a/MVDK521d>
+<https://classroom.github.com/a/GzMN5CJi>
 
 GitHub va vous créer un dépôt contenant un fork de ce dépôt. Vous apparaîtrez automatiquement comme contributeur de ce projet pour y pousser votre travail.
 
